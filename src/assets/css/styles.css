@@ -1,0 +1,20 @@
+.main-app-disabled {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main-app-disabled > h1 {
+    font-size: 1.5em;
+    margin: 0.67em auto;
+    text-align: center;
+}
+
+.main-app-disabled > p {
+    font-size: 1em;
+    margin: 0.67em auto;
+    text-align: center;
+}
+
+.active-link {
+    color: #4299e1;
+}
